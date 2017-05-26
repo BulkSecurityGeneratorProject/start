@@ -55,7 +55,7 @@ public class StartApp {
     }
 
     /**
-     * Main method, used to run the application.
+     * Main method, used to run the application.test
      *
      * @param args the command line arguments
      * @throws UnknownHostException if the local host name could not be resolved into an address
